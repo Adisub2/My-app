@@ -1,0 +1,9 @@
+{
+  "name": "Teerthlok",
+  "description": "A comprehensive AI-driven tourism platform for Uttarakhand, offering spiritual guidance, VR tours, smart navigation, and personalized trip planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
